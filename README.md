@@ -8,6 +8,6 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/Mumtaz04/pengeluaran-app.git
 git push -u origin master
 
-git clone https://github.com/username/pengeluaran-app.git
+git clone https://github.com/Mumtaz04/pengeluaran-app.git
 cd pengeluaran-app
 docker-compose up --build -d
